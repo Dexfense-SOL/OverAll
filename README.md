@@ -20,7 +20,7 @@ Dexfense Protocol is a Solana-based GameFi application that gamifies on-chain li
 
 * **UI Repository**: (TBD)
 * **Program Repository**: [https://github.com/Dexfense-SOL/dexfense-program](https://github.com/Dexfense-SOL/dexfense-program)
-* **Server Repository**: [https://github.com/Dexfense-SOL/dexfense-ui](https://github.com/Dexfense-SOL/dexfense-ui)
+* **Server Repository**: [https://github.com/Dexfense-SOL/dexfense-back](https://github.com/Dexfense-SOL/dexfense-back)
 
 ## Deployments
 
@@ -42,6 +42,7 @@ Dexfense Protocol is a Solana-based GameFi application that gamifies on-chain li
 - Noopy
   -  Server Engineer
   -  "Korean" Gamer
+  -  Algorithm Master
 
 
 
