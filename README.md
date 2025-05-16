@@ -7,6 +7,9 @@
 - program repository : https://github.com/Dexfense-SOL/dexfense-program
 - Server repository : https://github.com/Dexfense-SOL/dexfense-ui
 
+- Deploy(Dexfense Protocol) : 6hr1mocCrFQGHpi28GNJ5xpHZfuov8bWF9YCfHQw1KkC
+- Deploy(simple-amm-dex) : Hi1N38K75Ba4SiB3i8ooZTCy6dGxZKsQg3mXZHWgNN52
+
 **Dexfense Protocol** gamifies on-chain liquidity and enables users to directly engage with DeFi mechanics by participating in the liquidity cycle through gameplay. It replaces static, abstract swap interactions with action-based engagement, where in-game decisions yield direct rewards tied to actual liquidity flows.
 
 ### Core Objectives
