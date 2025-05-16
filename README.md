@@ -34,6 +34,7 @@ Dexfense Protocol is a Solana-based GameFi application that gamifies on-chain li
 
 - YONA
   - Senior Front Engineer
+  - Snack-driven Dev
 - RY_000
   - Full Stack Engineer
   - Math Nerd
